@@ -1,9 +1,3 @@
-# 2018-GALAXYWARS
+# GALAXYWARS
 
-스타크래프트에서 영감을 얻은 웹 RTS 게임 
-
-http://galaxywars.xyz 
-
----
-
-<a rel="license" href="http://creativecommons.org/licenses/by/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported License</a>.
+2018 선린인터넷고등학교 디지털콘텐츠 경진대회에 참여하기 위해 개발한 웹 기반 RTS 게임 
